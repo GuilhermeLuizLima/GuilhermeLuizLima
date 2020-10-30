@@ -1,9 +1,9 @@
 ### Guilherme Luiz 👋
 ### Hello!👋 Welcome to my profile
 
-💻 Web and mobile developer
-🇧🇷 Born in JC, São Paulo, Brazil
-🇳🇱 Living in Brazil
+💻 Web and mobile developer<br>
+🇧🇷 Born in JC, São Paulo, Brazil<br>
+🇳🇱 Living in Brazil<br>
 
 What I'm working on 👨‍💻
 
